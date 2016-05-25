@@ -1,0 +1,25 @@
+start_time     : 1463592761
+last_update    : 1464099093
+fuzzer_pid     : 28068
+cycles_done    : 0
+execs_done     : 54333314
+execs_per_sec  : 136.76
+paths_total    : 2694
+paths_favored  : 258
+paths_found    : 17
+paths_imported : 299
+max_depth      : 2
+cur_path       : 2108
+pending_favs   : 190
+pending_total  : 2621
+variable_paths : 0
+bitmap_cvg     : 11.07%
+unique_crashes : 4
+unique_hangs   : 108
+last_path      : 1464033521
+last_crash     : 1464066452
+last_hang      : 1463613525
+exec_timeout   : 460
+afl_banner     : fuzzer1
+afl_version    : 2.10b
+command_line   : afl-fuzz -i- -o syncdir -Z0 -M fuzzer1 -m100 -- /root/openh264/h264dec @@ /dev/null
