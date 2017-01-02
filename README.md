@@ -1,4 +1,5 @@
 # openh264-fuzz
+These were tested against OpenH264 1.5.1. These are fixed in 1.6.
 Bug #1
 --
 ```
