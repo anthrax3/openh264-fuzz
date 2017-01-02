@@ -1,0 +1,12 @@
+H264 source file name: /root/openh264-fuzz/fuzzer5/crashes/id:000008,sig:06,src:001271+001508,op:splice,rep:64..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (96).
+
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.000122 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

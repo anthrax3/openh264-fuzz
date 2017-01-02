@@ -1,0 +1,233 @@
+H264 source file name: /root/openh264-fuzz/fuzzer2/crashes.2016-05-04-14:42:51/id:000020,sig:06,src:000663+001839,op:splice,rep:16..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 14
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (11) in frame: 14 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 5
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1035) in frame: 5 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 16 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 122 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.154827 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

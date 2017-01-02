@@ -1,0 +1,23 @@
+H264 source file name: /root/openh264-fuzz/fuzzer6/crashes.2016-05-04-14:58:26/id:000005,sig:06,src:000821,op:havoc,rep:64..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax pic_init_qp_minus26 + 26 2116646
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (49).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (49).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParsePps(): weighted_bipred_idc (1) not supported.
+
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax pic_init_qp_minus26 + 26 2116646
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax pic_init_qp_minus26 + 26 16346
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax pic_init_qp_minus26 + 26 6762570
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.000221 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

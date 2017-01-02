@@ -1,0 +1,79 @@
+H264 source file name: /root/openh264-fuzz/fuzzer8/crashes.2016-05-04-15:10:20/id:000029,sig:06,src:000385+002815,op:splice,rep:64..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 1
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1051) in frame: 1 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 1
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 1 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 8 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 24
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 24 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 24
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 24 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 24
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 24 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 24
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 24 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 24
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 24 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 24
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 24 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 24
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 24 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 24
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 24 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 25
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 25 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 22
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 22 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 10
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 1
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 1 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 1
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 10
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 10
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 4
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 4 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax pic_init_qp_minus26 + 26 57
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1051) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Error: the pic_height_in_mbs exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1051) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1035) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParsePps(): weighted_bipred_idc (3) not supported.
+
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1035) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1051) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (223).
+
+[OpenH264] this = 0x0x60300000efe0, Error:PPS id (2) is invalid, previous id (-1) error ignored (0)!
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.343098 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

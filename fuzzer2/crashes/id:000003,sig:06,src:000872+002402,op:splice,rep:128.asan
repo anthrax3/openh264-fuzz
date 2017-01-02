@@ -1,0 +1,34 @@
+H264 source file name: /root/openh264-fuzz/fuzzer2/crashes/id:000003,sig:06,src:000872+002402,op:splice,rep:128..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:frame_crop_left_offset + frame_crop_right_offset exceeds limits!
+[OpenH264] this = 0x0x60300000efe0, Error:Sub SPS id (0) is invalid, previous id (-1) error ignored (0)!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseNalHeader():uiQualityId (7) != 0, MGS not supported!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseNalHeader():bUseRefBasePicFlag (1) != 0, MGS not supported!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseNalHeader():bUseRefBasePicFlag (1) != 0, MGS not supported!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (12) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:frame_crop_left_offset + frame_crop_right_offset exceeds limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseNalHeader():bUseRefBasePicFlag (1) != 0, MGS not supported!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.191978 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

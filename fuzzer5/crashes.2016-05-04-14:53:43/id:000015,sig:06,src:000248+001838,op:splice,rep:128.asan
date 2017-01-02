@@ -1,0 +1,15 @@
+H264 source file name: /root/openh264-fuzz/fuzzer5/crashes.2016-05-04-14:53:43/id:000015,sig:06,src:000248+001838,op:splice,rep:128..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Error:pic_height_in_mbs(67108928) invalid!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (162).
+
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.000205 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

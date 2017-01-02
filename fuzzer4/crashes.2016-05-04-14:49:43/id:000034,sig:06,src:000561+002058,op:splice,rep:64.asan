@@ -1,0 +1,89 @@
+H264 source file name: /root/openh264-fuzz/fuzzer4/crashes.2016-05-04-14:49:43/id:000034,sig:06,src:000561+002058,op:splice,rep:64..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): chroma_format_idc (47) <=1 supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 64
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 64 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 64
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 64 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 64
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 64 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 64
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 64 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 64
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 64 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 64
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 64 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 64
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 64 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 64
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 64 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 64
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 64 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 64
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 64 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 64
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 64 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 64
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 64 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 64
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 64 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 64
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 64 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 64, curr_frame_num: 24
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 24 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 64, curr_frame_num: 24
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 24 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 64, curr_frame_num: 24
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 24 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 64, curr_frame_num: 24
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1051) in frame: 24 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (0).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_pic_order_cnt_lsb_minus4 91991
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 1 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 1 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (19).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (0).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 24
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 8801
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (0).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 5
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax max_num_ref_frames 23
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 1 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 1 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 5
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 1 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 1 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 5
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.192088 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

@@ -1,0 +1,213 @@
+H264 source file name: /root/openh264-fuzz/fuzzer7/crashes.2016-05-04-15:04:28/id:000021,sig:06,src:002462+002885,op:splice,rep:128..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Warning: illegal pic_order_cnt_type: 95 ! 
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (15).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (15).
+
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1035) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1035) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParsePps(): weighted_bipred_idc (2) not supported.
+
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 86 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (12) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (203) at first_mb(5)
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:Invalid slice type(0) in IDR picture. 
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(): B slice not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 86 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1035) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1051) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1035) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1035) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1051) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1035) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 86 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (12) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1051) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1035) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(): B slice not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(): B slice not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1035) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (12) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1051) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 17
+[OpenH264] this = 0x0x60300000efe0, Warning:ParsePps(): weighted_bipred_idc (2) not supported.
+
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 0, curr_frame_num: 6
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 6 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(): B slice not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(): B slice not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 1 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 86 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 86 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 86 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 86 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (47) at first_mb(5)
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 311526 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 6, curr_frame_num: 1
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 1 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:DecodeCurrentAccessUnit()::::::PrefetchPic ERROR, pSps->iNumRefFrames:5.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParsePps(): weighted_bipred_idc (2) not supported.
+
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 6
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 6 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 86 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (47) at first_mb(5)
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 6, curr_frame_num: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 86 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 86 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 86 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (47) at first_mb(5)
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (255).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParsePps(): weighted_bipred_idc (3) not supported.
+
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParsePps(): weighted_bipred_idc (2) not supported.
+
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 0, curr_frame_num: 6
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 6 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 86 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 6, curr_frame_num: 1
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 1 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 1, curr_frame_num: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (47) at first_mb(5)
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 1, curr_frame_num: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1027) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: illegal pic_order_cnt_type: 5 ! 
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 1 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (47) at first_mb(5)
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 86 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid ref pPic list reordering syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (47) at first_mb(5)
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 86 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 86 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (47) at first_mb(5)
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 86 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (47) at first_mb(5)
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 38935
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 1, curr_frame_num: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 39191
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 370213
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 39191
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	1.286148 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

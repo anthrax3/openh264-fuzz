@@ -1,0 +1,62 @@
+H264 source file name: /root/openh264-fuzz/fuzzer4/crashes/id:000002,sig:06,src:000240+000923,op:splice,rep:32..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (44).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (0).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 3 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (0).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 3 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (0).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 3 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (0).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 3 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (0).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 3 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (0).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 3 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (0).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 3 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (0).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 3 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (0).
+
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax chroma_qp_index_offset 192
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 3 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (0).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 3 uiQId: 0
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.194016 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

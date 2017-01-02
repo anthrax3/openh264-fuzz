@@ -1,0 +1,112 @@
+H264 source file name: /root/openh264-fuzz/fuzzer2/crashes.2016-05-04-14:42:51/id:000027,sig:06,src:001297+002370,op:splice,rep:128..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax pic_init_qs_minus26 + 26 4473950
+[OpenH264] this = 0x0x60300000efe0, Warning:ParsePps(): weighted_bipred_idc (2) not supported.
+
+[OpenH264] this = 0x0x60300000efe0, Error:Sub SPS id (0) is invalid, previous id (-1) error ignored (0)!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax pic_init_qs_minus26 + 26 17502
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 65794
+[OpenH264] this = 0x0x60300000efe0, Warning:Invalid slice type(0) in IDR picture. 
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 262324 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:WelsDecodeMbCavlcISlice()::::pBs incomplete, iUsedBits:56 > pBs->iBits:55, MUST stop decoding.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid ref pPic list reordering syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 1
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 1 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid ref pPic list reordering syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:uiScanIdxStart (0) != 0 and uiScanIdxEnd (3) !=15 not supported here
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParsePps(): weighted_bipred_idc (2) not supported.
+
+[OpenH264] this = 0x0x60300000efe0, Warning:QP -94207 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:Invalid slice type(0) in IDR picture. 
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid ref pPic list reordering syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax pic_init_qs_minus26 + 26 25268978
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 1, curr_frame_num: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1035) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 1, curr_frame_num: 15
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 15 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): chroma_format_idc (191) <=1 supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParsePps(): weighted_bipred_idc (2) not supported.
+
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 1, curr_frame_num: 8
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 8 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax pic_init_qs_minus26 + 26 17502
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Warning:bSliceSkipFlag == 1 not supported.
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Warning:uiScanIdxStart (0) != 0 and uiScanIdxEnd (0) !=15 not supported here
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 845 out of range
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParsePps(): weighted_bipred_idc (2) not supported.
+
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParsePps(): weighted_bipred_idc (2) not supported.
+
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 65744
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 8, curr_frame_num: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1035) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 65794
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 74016
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax pic_init_qs_minus26 + 26 25268978
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid ref pPic list reordering syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 74016
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 65794
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 90 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 8, curr_frame_num: 1
+[OpenH264] this = 0x0x60300000efe0, Warning:WelsDecodeMbCavlcISlice()::::pBs incomplete, iUsedBits:168 > pBs->iBits:160, MUST stop decoding.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 8 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseNalHeader():uiQualityId (10) != 0, MGS not supported!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax pic_init_qs_minus26 + 26 25268978
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid syntax vertical mv 1406
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 8 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax pic_init_qs_minus26 + 26 4473950
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 8 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 8, curr_frame_num: 4
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 4 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid syntax vertical mv 1404
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 8 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 8, curr_frame_num: 4
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 4 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 65794
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 115 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 115 out of range
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 65744
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 4, curr_frame_num: 8
+[OpenH264] this = 0x0x60300000efe0, Warning:WelsDecodeMbCavlcISlice()::::pBs incomplete, iUsedBits:168 > pBs->iBits:160, MUST stop decoding.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 8 uiDId: 0 uiQId: 0
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.241514 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

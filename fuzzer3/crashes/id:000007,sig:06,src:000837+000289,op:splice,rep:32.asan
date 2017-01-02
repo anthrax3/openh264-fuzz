@@ -1,0 +1,19 @@
+H264 source file name: /root/openh264-fuzz/fuzzer3/crashes/id:000007,sig:06,src:000837+000289,op:splice,rep:32..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:parse_nal(), no exist Picture Parameter Sets ahead of sequence when try to decode NAL(type:5).
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 5 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 5 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 8 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 8 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(): B slice not supported.
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.141232 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

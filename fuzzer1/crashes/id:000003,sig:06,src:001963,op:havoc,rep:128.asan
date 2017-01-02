@@ -1,0 +1,35 @@
+H264 source file name: /root/openh264-fuzz/fuzzer1/crashes/id:000003,sig:06,src:001963,op:havoc,rep:128..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax iPpsId out of range 406
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1035) in frame: 1 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 65631
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 12374 out of range
+[OpenH264] this = 0x0x60300000efe0, Error:PPS id (6) is invalid, previous id (-1) error ignored (0)!
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Error:Sub SPS id (0) is invalid, previous id (-1) error ignored (0)!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 65631
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 12374 out of range
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Warning:Invalid slice type(0) in IDR picture. 
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (0).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid ref pPic list reordering syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Warning:Invalid slice type(0) in IDR picture. 
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (0).
+
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax pic_init_qp_minus26 + 26 12626134
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid ref pPic list reordering syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParsePps(): weighted_bipred_idc (3) not supported.
+
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.206905 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

@@ -1,0 +1,27 @@
+H264 source file name: /root/openh264-fuzz/fuzzer6/crashes.2016-05-04-14:58:26/id:000007,sig:06,src:001298+002289,op:splice,rep:32..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseNalHeader():uiQualityId (1) != 0, MGS not supported!
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (12) at first_mb(3)
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 23
+[OpenH264] this = 0x0x60300000efe0, Warning:Invalid slice type(0) in IDR picture. 
+[OpenH264] this = 0x0x60300000efe0, Warning:Invalid slice type(0) in IDR picture. 
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:iBaseModeFlag (1) != 0, inter-layer prediction not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (328742) in frame: 1 uiDId: 3 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:Invalid slice type(0) in IDR picture. 
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 8218 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (11) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax pic_init_qs_minus26 + 26 2152
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (47) at first_mb(5)
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.187872 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

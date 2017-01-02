@@ -1,0 +1,11 @@
+H264 source file name: /root/openh264-fuzz/fuzzer8/crashes.2016-05-04-15:10:20/id:000004,sig:06,src:001612,op:havoc,rep:32..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.000091 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

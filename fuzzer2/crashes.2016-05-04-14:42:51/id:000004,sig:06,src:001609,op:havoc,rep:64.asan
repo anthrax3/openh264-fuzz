@@ -1,0 +1,15 @@
+H264 source file name: /root/openh264-fuzz/fuzzer2/crashes.2016-05-04-14:42:51/id:000004,sig:06,src:001609,op:havoc,rep:64..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (32) at first_mb(1)
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 4 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 4 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (32) at first_mb(1)
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.103921 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

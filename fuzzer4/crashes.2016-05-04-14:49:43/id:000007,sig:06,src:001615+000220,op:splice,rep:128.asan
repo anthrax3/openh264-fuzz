@@ -1,0 +1,49 @@
+H264 source file name: /root/openh264-fuzz/fuzzer4/crashes.2016-05-04-14:49:43/id:000007,sig:06,src:001615+000220,op:splice,rep:128..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:disable_deblock_filter_idc (7) out of range [0, 6]
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 2
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (12) in frame: 2 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(): B slice not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (0).
+
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 8 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (47) at first_mb(5)
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 0, curr_frame_num: 24
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 24 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 24, curr_frame_num: 32
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (12) in frame: 32 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:MMCO_SHORT2UNUSED: delete a empty entry from short term list
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 32, curr_frame_num: 24
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1035) in frame: 24 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (12) in frame: 24 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 24 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (12) in frame: 24 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1027) in frame: 24 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 24, curr_frame_num: 26
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 26 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 26, curr_frame_num: 24
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (12) in frame: 24 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 26, curr_frame_num: 24
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 24 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 26, curr_frame_num: 24
+[OpenH264] this = 0x0x60300000efe0, Warning:WelsDecodeMbCavlcISlice()::::pBs incomplete, iUsedBits:47 > pBs->iBits:44, MUST stop decoding.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 24 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (47) at first_mb(5)
+[OpenH264] this = 0x0x60300000efe0, Error:DecodeCurrentAccessUnit()::::::PrefetchPic ERROR, pSps->iNumRefFrames:5.
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.196344 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

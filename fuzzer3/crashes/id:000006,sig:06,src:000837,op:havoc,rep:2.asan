@@ -1,0 +1,11 @@
+H264 source file name: /root/openh264-fuzz/fuzzer3/crashes/id:000006,sig:06,src:000837,op:havoc,rep:2..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:parse_nal(), no exist Sequence Parameter Sets ahead of sequence when try to decode NAL(type:0).
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.000044 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

@@ -1,0 +1,27 @@
+H264 source file name: /root/openh264-fuzz/fuzzer7/crashes/id:000001,sig:06,src:001099+001679,op:splice,rep:32..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:parse_nal(), no exist Picture Parameter Sets ahead of sequence when try to decode NAL(type:5).
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (31) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (31) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: illegal pic_order_cnt_type: 37 ! 
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (31) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.000558 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

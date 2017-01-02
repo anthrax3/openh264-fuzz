@@ -1,0 +1,16 @@
+H264 source file name: /root/openh264-fuzz/fuzzer3/crashes.2016-05-04-14:46:02/id:000003,sig:06,src:000819,op:havoc,rep:8..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (49).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (49).
+
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.000110 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

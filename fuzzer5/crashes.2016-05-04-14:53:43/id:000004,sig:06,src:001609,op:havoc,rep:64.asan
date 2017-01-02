@@ -1,0 +1,10 @@
+H264 source file name: /root/openh264-fuzz/fuzzer5/crashes.2016-05-04-14:53:43/id:000004,sig:06,src:001609,op:havoc,rep:64..
+Sequence output file name: /dev/null..
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.000060 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

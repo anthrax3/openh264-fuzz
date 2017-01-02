@@ -1,0 +1,14 @@
+H264 source file name: /root/openh264-fuzz/fuzzer5/crashes/id:000004,sig:06,src:000743+001220,op:splice,rep:128..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:parse_nal(), no exist Sequence Parameter Sets ahead of sequence when try to decode NAL(type:16).
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_pic_order_cnt_lsb_minus4 13
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.000109 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

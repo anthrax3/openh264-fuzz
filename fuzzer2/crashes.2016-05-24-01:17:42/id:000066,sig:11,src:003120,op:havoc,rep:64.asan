@@ -1,0 +1,252 @@
+H264 source file name: /root/openh264-fuzz/fuzzer2/crashes.2016-05-24-01:17:42/id:000066,sig:11,src:003120,op:havoc,rep:64..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1027) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1042) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (0).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1035) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 1 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax chroma_qp_index_offset 16
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 14 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:Invalid slice type(0) in IDR picture. 
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 9 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Error:PPS id (5) is invalid, previous id (-1) error ignored (0)!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax idr_pic_id 363051007
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax chroma_qp_index_offset -63
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax idr_pic_id 196626
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Error:PPS id (21) is invalid, previous id (-1) error ignored (0)!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax idr_pic_id 197378
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (2) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParsePps(): weighted_bipred_idc (3) not supported.
+
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (47) at first_mb(5)
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 1 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax idr_pic_id 197378
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:PPS id (5) is invalid, previous id (-1) error ignored (0)!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax idr_pic_id 197378
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax idr_pic_id 197378
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (127) at first_mb(0)
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (47) at first_mb(5)
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 113
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 7
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 95
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(): B slice not supported.
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 0, curr_frame_num: 14
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 14 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid ref pPic list reordering syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 9
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 38935
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Warning: illegal pic_order_cnt_type: 6 ! 
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(): B slice not supported.
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 14, curr_frame_num: 13
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 13 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid ref pPic list reordering syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Error:PPS id (2) is invalid, previous id (-1) error ignored (0)!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Warning:Invalid slice type(0) in IDR picture. 
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 4
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid ref pPic list reordering syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 14, curr_frame_num: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (12) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 69 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax num_ref_idx_l0_active_minus1 62
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 59 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:Invalid slice type(0) in IDR picture. 
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 69 out of range
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1042) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1035) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1042) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1042) in frame: 1 uiDId: 0 uiQId: 0
+=================================================================
+==14064==ERROR: AddressSanitizer: heap-use-after-free on address 0x62e000088410 at pc 0x00000042fa6a bp 0x7fff2f26ee90 sp 0x7fff2f26ee80
+READ of size 1 at 0x62e000088410 thread T0
+    #0 0x42fa69 in WelsDec::FmoNextMb(WelsDec::TagFmo*, short) (/root/asan/openh264/h264dec+0x42fa69)
+    #1 0x471797 in WelsDec::WelsDecodeSlice(WelsDec::TagWelsDecoderContext*, bool, WelsDec::TagNalUnit*) (/root/asan/openh264/h264dec+0x471797)
+    #2 0x424170 in WelsDec::DecodeCurrentAccessUnit(WelsDec::TagWelsDecoderContext*, unsigned char**, TagBufferInfo*) (/root/asan/openh264/h264dec+0x424170)
+    #3 0x4275e8 in WelsDec::ConstructAccessUnit(WelsDec::TagWelsDecoderContext*, unsigned char**, TagBufferInfo*) (/root/asan/openh264/h264dec+0x4275e8)
+    #4 0x40db32 in WelsDecodeBs (/root/asan/openh264/h264dec+0x40db32)
+    #5 0x4089b9 in WelsDec::CWelsDecoder::DecodeFrameNoDelay(unsigned char const*, int, unsigned char**, TagBufferInfo*) (/root/asan/openh264/h264dec+0x4089b9)
+    #6 0x404995 in H264DecodeInstance(ISVCDecoder*, char const*, char const*, int&, int&, char const*, char const*) (/root/asan/openh264/h264dec+0x404995)
+    #7 0x402be3 in main (/root/asan/openh264/h264dec+0x402be3)
+    #8 0x7fa5971ee82f in __libc_start_main (/lib/x86_64-linux-gnu/libc.so.6+0x2082f)
+    #9 0x403608 in _start (/root/asan/openh264/h264dec+0x403608)
+
+0x62e000088410 is located 16400 bytes inside of 48027-byte region [0x62e000084400,0x62e00008ff9b)
+freed by thread T0 here:
+    #0 0x7fa597ed02ca in __interceptor_free (/usr/lib/x86_64-linux-gnu/libasan.so.2+0x982ca)
+    #1 0x42f182 in WelsDec::InitFmo(WelsDec::TagFmo*, WelsDec::TagPps*, int, int, WelsCommon::CMemoryAlign*) (/root/asan/openh264/h264dec+0x42f182)
+    #2 0x42f883 in WelsDec::FmoParamUpdate(WelsDec::TagFmo*, WelsDec::TagSps*, WelsDec::TagPps*, int*, WelsCommon::CMemoryAlign*) (/root/asan/openh264/h264dec+0x42f883)
+    #3 0x423772 in WelsDec::DecodeCurrentAccessUnit(WelsDec::TagWelsDecoderContext*, unsigned char**, TagBufferInfo*) (/root/asan/openh264/h264dec+0x423772)
+    #4 0x4275e8 in WelsDec::ConstructAccessUnit(WelsDec::TagWelsDecoderContext*, unsigned char**, TagBufferInfo*) (/root/asan/openh264/h264dec+0x4275e8)
+    #5 0x40e70f in WelsDecodeBs (/root/asan/openh264/h264dec+0x40e70f)
+    #6 0x406ef9 in WelsDec::CWelsDecoder::DecodeFrame2(unsigned char const*, int, unsigned char**, TagBufferInfo*) [clone .part.3] [clone .constprop.6] (/root/asan/openh264/h264dec+0x406ef9)
+    #7 0x408678 in WelsDec::CWelsDecoder::DecodeFrameNoDelay(unsigned char const*, int, unsigned char**, TagBufferInfo*) (/root/asan/openh264/h264dec+0x408678)
+    #8 0x404995 in H264DecodeInstance(ISVCDecoder*, char const*, char const*, int&, int&, char const*, char const*) (/root/asan/openh264/h264dec+0x404995)
+    #9 0x402be3 in main (/root/asan/openh264/h264dec+0x402be3)
+    #10 0x7fa5971ee82f in __libc_start_main (/lib/x86_64-linux-gnu/libc.so.6+0x2082f)
+
+previously allocated by thread T0 here:
+    #0 0x7fa597ed0602 in malloc (/usr/lib/x86_64-linux-gnu/libasan.so.2+0x98602)
+    #1 0x4b5a78 in WelsCommon::WelsMalloc(unsigned int, char const*, unsigned int) (/root/asan/openh264/h264dec+0x4b5a78)
+    #2 0x4b5b64 in WelsCommon::CMemoryAlign::WelsMalloc(unsigned int, char const*) (/root/asan/openh264/h264dec+0x4b5b64)
+    #3 0x4b5c0f in WelsCommon::CMemoryAlign::WelsMallocz(unsigned int, char const*) (/root/asan/openh264/h264dec+0x4b5c0f)
+    #4 0x42f19a in WelsDec::InitFmo(WelsDec::TagFmo*, WelsDec::TagPps*, int, int, WelsCommon::CMemoryAlign*) (/root/asan/openh264/h264dec+0x42f19a)
+    #5 0x42f883 in WelsDec::FmoParamUpdate(WelsDec::TagFmo*, WelsDec::TagSps*, WelsDec::TagPps*, int*, WelsCommon::CMemoryAlign*) (/root/asan/openh264/h264dec+0x42f883)
+    #6 0x423772 in WelsDec::DecodeCurrentAccessUnit(WelsDec::TagWelsDecoderContext*, unsigned char**, TagBufferInfo*) (/root/asan/openh264/h264dec+0x423772)
+    #7 0x4275e8 in WelsDec::ConstructAccessUnit(WelsDec::TagWelsDecoderContext*, unsigned char**, TagBufferInfo*) (/root/asan/openh264/h264dec+0x4275e8)
+    #8 0x40db32 in WelsDecodeBs (/root/asan/openh264/h264dec+0x40db32)
+    #9 0x4089b9 in WelsDec::CWelsDecoder::DecodeFrameNoDelay(unsigned char const*, int, unsigned char**, TagBufferInfo*) (/root/asan/openh264/h264dec+0x4089b9)
+    #10 0x404995 in H264DecodeInstance(ISVCDecoder*, char const*, char const*, int&, int&, char const*, char const*) (/root/asan/openh264/h264dec+0x404995)
+    #11 0x402be3 in main (/root/asan/openh264/h264dec+0x402be3)
+    #12 0x7fa5971ee82f in __libc_start_main (/lib/x86_64-linux-gnu/libc.so.6+0x2082f)
+
+SUMMARY: AddressSanitizer: heap-use-after-free ??:0 WelsDec::FmoNextMb(WelsDec::TagFmo*, short)
+Shadow bytes around the buggy address:
+  0x0c5c80009030: fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd
+  0x0c5c80009040: fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd
+  0x0c5c80009050: fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd
+  0x0c5c80009060: fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd
+  0x0c5c80009070: fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd
+=>0x0c5c80009080: fd fd[fd]fd fd fd fd fd fd fd fd fd fd fd fd fd
+  0x0c5c80009090: fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd
+  0x0c5c800090a0: fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd
+  0x0c5c800090b0: fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd
+  0x0c5c800090c0: fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd
+  0x0c5c800090d0: fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd
+Shadow byte legend (one shadow byte represents 8 application bytes):
+  Addressable:           00
+  Partially addressable: 01 02 03 04 05 06 07 
+  Heap left redzone:       fa
+  Heap right redzone:      fb
+  Freed heap region:       fd
+  Stack left redzone:      f1
+  Stack mid redzone:       f2
+  Stack right redzone:     f3
+  Stack partial redzone:   f4
+  Stack after return:      f5
+  Stack use after scope:   f8
+  Global redzone:          f9
+  Global init order:       f6
+  Poisoned by user:        f7
+  Container overflow:      fc
+  Array cookie:            ac
+  Intra object redzone:    bb
+  ASan internal:           fe
+==14064==ABORTING

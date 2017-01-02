@@ -1,0 +1,20 @@
+H264 source file name: /root/openh264-fuzz/fuzzer3/crashes.2016-05-04-14:46:02/id:000026,sig:06,src:000821+002621,op:splice,rep:64..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:parse_nal(), no exist Picture Parameter Sets ahead of sequence when try to decode NAL(type:24).
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (49).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (82).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (56).
+
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax pic_init_qp_minus26 + 26 49178
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (56).
+
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.000238 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

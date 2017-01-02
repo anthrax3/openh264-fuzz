@@ -1,0 +1,19 @@
+H264 source file name: /root/openh264-fuzz/fuzzer8/crashes/id:000005,sig:06,src:001471+000096,op:splice,rep:64..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:Redundant picture not supported!
+[OpenH264] this = 0x0x60300000efe0, Warning:Redundant picture not supported!
+[OpenH264] this = 0x0x60300000efe0, Warning:Redundant picture not supported!
+[OpenH264] this = 0x0x60300000efe0, Warning:Redundant picture not supported!
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Warning:Redundant picture not supported!
+[OpenH264] this = 0x0x60300000efe0, Warning:Invalid slice type(0) in IDR picture. 
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.134813 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

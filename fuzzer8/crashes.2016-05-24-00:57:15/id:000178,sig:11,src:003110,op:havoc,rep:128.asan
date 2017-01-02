@@ -1,0 +1,17 @@
+H264 source file name: /root/openh264-fuzz/fuzzer8/crashes.2016-05-24-00:57:15/id:000178,sig:11,src:003110,op:havoc,rep:128..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (0).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning: illegal pic_order_cnt_type: 6 ! 
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.002511 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

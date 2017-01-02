@@ -1,0 +1,17 @@
+H264 source file name: /root/openh264-fuzz/fuzzer3/crashes/id:000001,sig:06,src:000110+000578,op:splice,rep:4..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (0).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (1).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.034027 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

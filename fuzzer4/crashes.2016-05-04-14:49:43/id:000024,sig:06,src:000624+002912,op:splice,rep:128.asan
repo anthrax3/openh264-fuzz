@@ -1,0 +1,20 @@
+H264 source file name: /root/openh264-fuzz/fuzzer4/crashes.2016-05-04-14:49:43/id:000024,sig:06,src:000624+002912,op:splice,rep:128..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (36).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): frame_mbs_only_flag (0) not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): bit_depth_luma (14) Only 8 bit supported.
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.000389 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

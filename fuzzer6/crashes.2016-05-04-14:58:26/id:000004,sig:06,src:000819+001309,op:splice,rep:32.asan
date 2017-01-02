@@ -1,0 +1,32 @@
+H264 source file name: /root/openh264-fuzz/fuzzer6/crashes.2016-05-04-14:58:26/id:000004,sig:06,src:000819+001309,op:splice,rep:32..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (49).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (49).
+
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.000568 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

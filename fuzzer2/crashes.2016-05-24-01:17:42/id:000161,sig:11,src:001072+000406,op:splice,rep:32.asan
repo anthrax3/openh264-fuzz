@@ -1,0 +1,14 @@
+H264 source file name: /root/openh264-fuzz/fuzzer2/crashes.2016-05-24-01:17:42/id:000161,sig:11,src:001072+000406,op:splice,rep:32..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 12 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 12 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning: illegal pic_order_cnt_type: 6 ! 
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.010545 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

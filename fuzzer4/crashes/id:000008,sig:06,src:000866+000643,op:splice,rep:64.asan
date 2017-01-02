@@ -1,0 +1,26 @@
+H264 source file name: /root/openh264-fuzz/fuzzer4/crashes/id:000008,sig:06,src:000866+000643,op:splice,rep:64..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1035) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 49665
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 384
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (36).
+
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 237605
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (100).
+
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.154212 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

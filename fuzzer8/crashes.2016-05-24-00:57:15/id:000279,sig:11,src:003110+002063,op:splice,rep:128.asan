@@ -1,0 +1,195 @@
+H264 source file name: /root/openh264-fuzz/fuzzer8/crashes.2016-05-24-00:57:15/id:000279,sig:11,src:003110+002063,op:splice,rep:128..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1027) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1042) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (48).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 1 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax chroma_qp_index_offset 16
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 14 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:Invalid slice type(0) in IDR picture. 
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax idr_pic_id 163442175
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 9 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(): B slice not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Error:PPS id (5) is invalid, previous id (-1) error ignored (0)!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1052) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax idr_pic_id 197378
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (2) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParsePps(): weighted_bipred_idc (3) not supported.
+
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 1 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax idr_pic_id 197378
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (10014) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 10 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:PPS id (5) is invalid, previous id (-1) error ignored (0)!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax idr_pic_id 197378
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax cabac_init_idc 17
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 5
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (127) at first_mb(0)
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 5
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 5
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 164 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 5
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 164 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (3) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(): B slice not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (47) at first_mb(5)
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (3) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 38935
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning: illegal pic_order_cnt_type: 6 ! 
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 38935
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(): B slice not supported.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(): B slice not supported.
+[OpenH264] this = 0x0x60300000efe0, Error:PPS id (2) is invalid, previous id (-1) error ignored (0)!
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:Invalid slice type(0) in IDR picture. 
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (47) at first_mb(5)
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax iPpsId out of range 279
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax log2_max_frame_num_minus4 47
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax max_num_ref_frames 23
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning: iSpsId is out of range! 
+
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.216960 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

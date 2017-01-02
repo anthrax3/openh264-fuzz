@@ -1,0 +1,37 @@
+H264 source file name: /root/openh264-fuzz/fuzzer2/crashes/id:000002,sig:06,src:000872+000722,op:splice,rep:32..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 1 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid weighted prediction syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 1 uiDId: 0 uiQId: 0
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.175233 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

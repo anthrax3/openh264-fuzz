@@ -1,0 +1,27 @@
+H264 source file name: /root/openh264-fuzz/fuzzer8/crashes.2016-05-04-15:10:20/id:000008,sig:06,src:002485+001712,op:splice,rep:64..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (127).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (49).
+
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax pic_init_qp_minus26 + 26 8700122
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax pic_init_qp_minus26 + 26 3361830
+[OpenH264] this = 0x0x60300000efe0, Warning:ParsePps(): weighted_bipred_idc (3) not supported.
+
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParsePps(): weighted_bipred_idc (1) not supported.
+
+[OpenH264] this = 0x0x60300000efe0, Warning:slice type too large (226) at first_mb(1)
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 5 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(), invaild frame number: 5 due to IDR frame introduced!
+[OpenH264] this = 0x0x60300000efe0, Error:PPS id (3) is invalid, previous id (-1) error ignored (0)!
+[OpenH264] this = 0x0x60300000efe0, Warning:slice_type (0) not supported for num_ref_frames = 0.
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.000406 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

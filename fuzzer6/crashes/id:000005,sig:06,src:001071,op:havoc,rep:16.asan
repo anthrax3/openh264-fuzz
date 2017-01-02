@@ -1,0 +1,19 @@
+H264 source file name: /root/openh264-fuzz/fuzzer6/crashes/id:000005,sig:06,src:001071,op:havoc,rep:16..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (12) in frame: 0 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:MMCO_SHORT2UNUSED: delete a empty entry from short term list
+[OpenH264] this = 0x0x60300000efe0, Warning:MMCO_SHORT2UNUSED: delete a empty entry from short term list
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 0, curr_frame_num: 4
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 4 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 0, curr_frame_num: 4
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 4 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 0, curr_frame_num: 4
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (-1) in frame: 4 uiDId: 0 uiQId: 0
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.162612 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

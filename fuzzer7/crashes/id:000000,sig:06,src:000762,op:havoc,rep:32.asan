@@ -1,0 +1,12 @@
+H264 source file name: /root/openh264-fuzz/fuzzer7/crashes/id:000000,sig:06,src:000762,op:havoc,rep:32..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1050) in frame: 0 uiDId: 0 uiQId: 0
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.126570 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

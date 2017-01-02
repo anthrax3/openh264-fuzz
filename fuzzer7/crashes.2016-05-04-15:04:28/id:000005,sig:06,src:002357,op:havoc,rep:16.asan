@@ -1,0 +1,34 @@
+H264 source file name: /root/openh264-fuzz/fuzzer7/crashes.2016-05-04-15:04:28/id:000005,sig:06,src:002357,op:havoc,rep:16..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:Redundant picture not supported!
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: -1, curr_frame_num: 4
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (1027) in frame: 4 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax redundant_pic_cnt 151
+[OpenH264] this = 0x0x60300000efe0, Warning:Redundant picture not supported!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 65744
+[OpenH264] this = 0x0x60300000efe0, Warning:Redundant picture not supported!
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Warning:Invalid slice type(0) in IDR picture. 
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (0).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:UpdateAccessUnit():::::Key frame lost.....CAN NOT find IDR from current AU.
+[OpenH264] this = 0x0x60300000efe0, Warning:referencing pictures lost due frame gaps exist, prev_frame_num: 4, curr_frame_num: 8
+[OpenH264] this = 0x0x60300000efe0, Warning:DecodeCurrentAccessUnit() failed (12) in frame: 8 uiDId: 0 uiQId: 0
+[OpenH264] this = 0x0x60300000efe0, Warning:invalid ref pPic list reordering syntaxs!
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Error:NAL_UNIT_CODED_SLICE: DecInitBits() fail due invalid access.
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 65744
+[OpenH264] this = 0x0x60300000efe0, Warning:QP 74 out of range
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 703023
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax first_mb_in_slice 65744
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.194211 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------

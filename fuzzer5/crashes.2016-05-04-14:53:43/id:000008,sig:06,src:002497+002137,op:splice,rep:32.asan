@@ -1,0 +1,26 @@
+H264 source file name: /root/openh264-fuzz/fuzzer5/crashes.2016-05-04-14:53:43/id:000008,sig:06,src:002497+002137,op:splice,rep:32..
+Sequence output file name: /dev/null..
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (49).
+
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (49).
+
+[OpenH264] this = 0x0x60300000efe0, Warning: the total count of mb exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning: max_num_ref_frames exceeds level limits!
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax pic_init_qs_minus26 + 26 130
+[OpenH264] this = 0x0x60300000efe0, Error: the pic_height_in_mbs exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSps(): level_idx (189).
+
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax pic_init_qs_minus26 + 26 130
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax pic_init_qs_minus26 + 26 130
+[OpenH264] this = 0x0x60300000efe0, Error:invalid syntax pic_init_qs_minus26 + 26 -4
+[OpenH264] this = 0x0x60300000efe0, Error: the pic_height_in_mbs exceeds the level limits!
+[OpenH264] this = 0x0x60300000efe0, Warning:ParseSliceHeaderSyntaxs(): B slice not supported.
+[OpenH264] this = 0x0x60300000efe0, Error: the pic_height_in_mbs exceeds the level limits!
+-------------------------------------------------------
+iWidth:		0
+height:		0
+Frames:		0
+decode time:	0.000754 sec
+FPS:		0.000000 fps
+-------------------------------------------------------
+------------------------------------------------------
